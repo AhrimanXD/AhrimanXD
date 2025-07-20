@@ -11,7 +11,7 @@ I'm a passionate **Software Engineer / Computer Scientist** constantly building,
 
 - 🔭 I’m currently working on: A Flask-based eCommerce project and a Manga Translation Platform
 - 🌱 I’m currently learning: PostgreSQL, React.js, JavaScript, and authentication systems
-- 💻 I’m experienced with: Flask, Python, HTML, CSS, Flask-SQLAlchemy, and backend fundamentals
+- 💻 I’m experienced with: Flask, Django, FastAPI, Python, HTML, CSS, Flask-SQLAlchemy, and backend fundamentals
 - 🎯 Goals: Master Full-Stack Development → Cybersecurity → AI/ML
 - ⚡ Fun fact: I love manga and Murim-style swordsmanship ideas 🗡️
 
