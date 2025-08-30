@@ -20,7 +20,7 @@ I'm a passionate **Software Engineer / Computer Scientist** constantly building,
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,postgresql,html,css,js,react,tailwind,git,github,vscode,linux,docker,fastapi />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,postgresql,html,css,js,react,tailwind,git,github,vscode,linux/>
 </p>
 
 ---
