@@ -9,7 +9,7 @@ I'm a passionate **Software Engineer / Computer Scientist** constantly building,
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: A Flask-based eCommerce project and a Manga Translation Platform
+- 🔭 I’m currently working on: A Django-based eCommerce project and a Manga Translation Platform
 - 🌱 I’m currently learning: PostgreSQL, React.js, JavaScript, and authentication systems
 - 💻 I’m experienced with: Flask, Django, FastAPI, Python, HTML, CSS, Flask-SQLAlchemy, and backend fundamentals
 - 🎯 Goals: Master Full-Stack Development → Cybersecurity → AI/ML
@@ -20,7 +20,7 @@ I'm a passionate **Software Engineer / Computer Scientist** constantly building,
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,postgresql,html,css,js,react,tailwind,git,github,vscode,linux/>
+  <img src="https://skillicons.dev/icons?i=python,flask,django,postgresql,html,css,js,react,tailwind,git,github,vscode,linux"/>
 </p>
 
 ---
